@@ -28,13 +28,16 @@ install streamlit pandas matplotlib seaborn
 ## Cómo ejecutar la aplicación:
 
 1. Clona este repositorio en tu máquina local:
-    git clone https://github.com/Alvaro-Alonso-Portillo/Streamlit_Titanic
+
+        git clone https://github.com/Alvaro-Alonso-Portillo/Streamlit_Titanic
 
 2. Navega al directorio del proyecto:
-    cd analisis-titanic-streamlit
+    
+        cd analisis-titanic-streamlit
 
 3. Ejecuta la aplicación con Streamlit:
-    streamlit run CB_Streamlit_Titanic.py
+    
+        streamlit run CB_Streamlit_Titanic.py
 
 4. La aplicación se abrirá automáticamente en tu navegador web. Si no lo hace,
    visita http://localhost:8501.
@@ -42,21 +45,21 @@ install streamlit pandas matplotlib seaborn
 
 ## Estructura del Proyecto
 
-    app.py: El script principal de la aplicación Streamlit.
+app.py: El script principal de la aplicación Streamlit.
 
-    .csv: El archivo de datos que contiene la información de los pasajeros del Titanic.
+.csv: El archivo de datos que contiene la información de los pasajeros del Titanic.
 
-    README.md: Este archivo, que proporciona una descripción del proyecto.
+README.md: Este archivo, que proporciona una descripción del proyecto.
 
 ## Características de la Aplicación
 
-    Exploración de datos: Visualiza las primeras filas del conjunto de datos y obtén estadísticas descriptivas.
+Exploración de datos: Visualiza las primeras filas del conjunto de datos y obtén estadísticas descriptivas.
 
-    Filtrado interactivo: Filtra los datos por género, clase, edad y más.
+Filtrado interactivo: Filtra los datos por género, clase, edad y más.
 
-    Visualizaciones: Gráficos interactivos que muestran la distribución de pasajeros, tasas de supervivencia, y más.
+Visualizaciones: Gráficos interactivos que muestran la distribución de pasajeros, tasas de supervivencia, y más.
 
-    Análisis de supervivencia: Explora cómo diferentes factores (como la clase, el género y la edad) afectaron las tasas de supervivencia.
+Análisis de supervivencia: Explora cómo diferentes factores (como la clase, el género y la edad) afectaron las tasas de supervivencia.
 
 ## Contribuciones
 

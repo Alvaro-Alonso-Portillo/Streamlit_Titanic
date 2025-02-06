@@ -21,29 +21,26 @@ Para ejecutar este proyecto, necesitarás tener instalado lo siguiente:
 - Matplotlib y/o Seaborn (para visualizaciones).
 - Numpy.
 
-## Puedes instalar las dependencias necesarias ejecutando:
-```bash 
+## Puedes instalar las dependencias necesarias ejecutando: 
 install streamlit pandas matplotlib seaborn
  
 
 ## Cómo ejecutar la aplicación:
 
 1. Clona este repositorio en tu máquina local:
-```bash
-git clone https://github.com/Alvaro-Alonso-Portillo/Streamlit_Titanic
+    git clone https://github.com/Alvaro-Alonso-Portillo/Streamlit_Titanic
 
 2. Navega al directorio del proyecto:
-```bash
     cd analisis-titanic-streamlit
 
-3.Ejecuta la aplicación con Streamlit:
+3. Ejecuta la aplicación con Streamlit:
     streamlit run CB_Streamlit_Titanic.py
 
 4. La aplicación se abrirá automáticamente en tu navegador web. Si no lo hace,
    visita http://localhost:8501.
 
 
-Estructura del Proyecto
+## Estructura del Proyecto
 app.py: El script principal de la aplicación Streamlit.
 
 titanic.csv: El archivo de datos que contiene la información de los pasajeros del Titanic.
@@ -86,4 +83,5 @@ Email: balonsomorillo@gami.com
 
 GitHub: Alvaro-Alonso-Portillo
 
+Este proyecto fue creado durante el Master de Desarrollo Full-Stack en ConquerBlocks.
 ¡Gracias por visitar este proyecto! Espero que encuentres útil esta herramienta de análisis de datos del Titanic. 🚢

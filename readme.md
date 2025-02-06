@@ -21,17 +21,19 @@ Para ejecutar este proyecto, necesitarás tener instalado lo siguiente:
 - Matplotlib y/o Seaborn (para visualizaciones).
 - Numpy.
 
-Puedes instalar las dependencias necesarias ejecutando:
+## Puedes instalar las dependencias necesarias ejecutando:
+```bash 
+install streamlit pandas matplotlib seaborn
+ 
 
-```bash
-pip install streamlit pandas matplotlib seaborn numpy
-
-Cómo ejecutar la aplicación:
+## Cómo ejecutar la aplicación:
 
 1. Clona este repositorio en tu máquina local:
-    git clone https://github.com/Alvaro-Alonso-Portillo/Streamlit_Titanic
+```bash
+git clone https://github.com/Alvaro-Alonso-Portillo/Streamlit_Titanic
 
 2. Navega al directorio del proyecto:
+```bash
     cd analisis-titanic-streamlit
 
 3.Ejecuta la aplicación con Streamlit:

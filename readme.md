@@ -41,24 +41,25 @@ install streamlit pandas matplotlib seaborn
 
 
 ## Estructura del Proyecto
-app.py: El script principal de la aplicación Streamlit.
 
-titanic.csv: El archivo de datos que contiene la información de los pasajeros del Titanic.
+    app.py: El script principal de la aplicación Streamlit.
 
-README.md: Este archivo, que proporciona una descripción del proyecto.
+    .csv: El archivo de datos que contiene la información de los pasajeros del Titanic.
 
-requirements.txt: Archivo que lista las dependencias necesarias para ejecutar el proyecto.
+    README.md: Este archivo, que proporciona una descripción del proyecto.
 
-Características de la Aplicación
-Exploración de datos: Visualiza las primeras filas del conjunto de datos y obtén estadísticas descriptivas.
+## Características de la Aplicación
 
-Filtrado interactivo: Filtra los datos por género, clase, edad y más.
+    Exploración de datos: Visualiza las primeras filas del conjunto de datos y obtén estadísticas descriptivas.
 
-Visualizaciones: Gráficos interactivos que muestran la distribución de pasajeros, tasas de supervivencia, y más.
+    Filtrado interactivo: Filtra los datos por género, clase, edad y más.
 
-Análisis de supervivencia: Explora cómo diferentes factores (como la clase, el género y la edad) afectaron las tasas de supervivencia.
+    Visualizaciones: Gráficos interactivos que muestran la distribución de pasajeros, tasas de supervivencia, y más.
 
-Contribuciones
+    Análisis de supervivencia: Explora cómo diferentes factores (como la clase, el género y la edad) afectaron las tasas de supervivencia.
+
+## Contribuciones
+
 ¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, sigue estos pasos:
 
 Haz un fork del repositorio.
@@ -71,10 +72,10 @@ Haz push a la rama (git push origin feature/nueva-funcionalidad).
 
 Abre un Pull Request.
 
-Licencia
+## Licencia
 Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
-Contacto
+## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
 Nombre: AlvaroAPDev
